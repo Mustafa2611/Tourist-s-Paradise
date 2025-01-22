@@ -39,20 +39,21 @@
 
 
 git clone https://github.com/Mustafa2611/Tourist-s-Paradise.git
-Contributing
 
-    Fork this repository.
-    Create a new branch for your feature (git checkout -b feature-name).
-    Commit your changes (git commit -am 'Add new feature').
-    Push to the branch (git push origin feature-name).
-    Create a new Pull Request.
+##Contributing
+
+  -Fork this repository.
+  -Create a new branch for your feature (git checkout -b feature-name).
+  -Commit your changes (git commit -am 'Add new feature').
+  -Push to the branch (git push origin feature-name).
+  -Create a new Pull Request.
 
 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 Acknowledgments
 
-    Spring Boot
-    React
-    SQL Server
-    Special thanks to all contributors and developers who supported this project.
+  -Spring Boot
+  -React
+  -SQL Server
+  -Special thanks to all contributors and developers who supported this project.
